@@ -8,7 +8,7 @@ Studying Backend & Frontend Development
 <a href="https://sinyeowon.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-111111?style=flat-square&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/인스타아이디/" target="_blank">
+<a href="https://www.instagram.com/sinyeowon/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
