@@ -1,10 +1,15 @@
-Computer Science student  
-Studying Backend & Frontend Development
+![yeowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyeowon&theme=panda&show_icons=true)
 
-<br/>
-<a href="https://sinyeowon.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/blog-111111?style=flat-square&logo=githubsponsors&logoColor=EA4AAA"/>
-</a>
-<a href="https://www.instagram.com/sinyeowon/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=EA4AAA"/>
-</a>
+### Activities
+
+- **2025** 멋쟁이사자처럼 13기 Backend 트랙
+- **2025** 카카오테크캠퍼스 3기 Frontend 멤버
+- **2025.09~** GDGoC KNU 5기 Backend 멤버
+
+### Awards
+
+- **2025.06** 2025 KERT CTF 사이버보안 경진대회 우수상
+- **2025.09** 제1회 달빛톤 해커톤 우수상
+- **2025.11** 한국정보기술학회 추계종합학술대회 대학생 논문경진대회 동상
+- **2025.12** 2025 AI-conic Hackathon 우수상
+- **2025.12** 2025 I&T 융합 프로젝트 최우수상
