@@ -1,4 +1,8 @@
-![yeowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyeowon&theme=panda&show_icons=true)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sinyeowon&theme=vue&hide_border=true)
+
+</div>
 
 ### Activities
 
