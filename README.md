@@ -30,7 +30,7 @@
     <td>
       <img src="https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/JPA-009688?style=for-the-badge&logo=hibernate&logoColor=white">
+      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
       <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
   </tr>
@@ -38,7 +38,7 @@
     <td><strong>Database</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white">
       <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     </td>
   </tr>
@@ -57,4 +57,3 @@
     </td>
   </tr>
 </table>
-
