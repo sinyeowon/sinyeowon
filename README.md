@@ -19,6 +19,12 @@
 - **2025.12** 2025 AI-conic Hackathon 우수상
 - **2025.12** 2025 I&T 융합 프로젝트 최우수상
 
+### Certifications
+
+- **2026.03.27** SQLD
+- **2026.06.05** ADsP
+- **2026.07.18** SW테스트전문가(CSTS) - Foundation Level
+
 ### Skill Set
 
 | Category | Skills |
