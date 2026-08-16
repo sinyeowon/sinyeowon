@@ -8,7 +8,8 @@
 
 - **2025** 멋쟁이사자처럼 13기 Backend 트랙
 - **2025** 카카오테크캠퍼스 3기 Frontend 멤버
-- **2025.09~** GDGoC KNU 5기 Backend 멤버
+- **2025.09-2026.07** GDGoC KNU 5기 Backend 멤버
+- **2026.09~** GDGoC KNU 6기 Backend 운영진
 
 ### Awards
 
