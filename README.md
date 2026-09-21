@@ -9,7 +9,7 @@
 - **2025** 멋쟁이사자처럼 13기 Backend 트랙
 - **2025** 카카오테크캠퍼스 3기 Frontend 멤버
 - **2025.09-2026.07** GDGoC KNU 5기 Backend 멤버
-- **2026.09~** GDGoC KNU 6기 Backend 운영진
+- **2026.09~** GDGoC KNU 6기 Backend Core
 
 ### Awards
 
@@ -25,6 +25,7 @@
 - **2026.03.27** SQLD
 - **2026.06.05** ADsP
 - **2026.07.18** SW테스트전문가(CSTS) - Foundation Level
+- **2026.09.21** 정보처리기사
 
 ### Skill Set
 
