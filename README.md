@@ -1,38 +1,38 @@
-<div align="center">
+## 신여원 | Backend Developer
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sinyeowon&theme=vue&hide_border=true)
+안정성과 데이터 정합성을 고민하는 백엔드 개발자 신여원입니다.
 
-</div>
+- 분산 환경에서 발생하는 중복 실행, 이벤트 유실, 상태 고착 문제를 해결한 경험이 있습니다.
+- 기능 구현에 그치지 않고 예외 상황과 장애 상황까지 고려한 설계와 테스트를 중요하게 생각합니다.
+- 문제의 원인을 구조적으로 파악하고, 기술적 판단과 해결 과정을 문서화하고 공유하는 것을 좋아합니다.
 
-### Activities
+<br>
 
-- **2025** 멋쟁이사자처럼 13기 Backend 트랙
-- **2025** 카카오테크캠퍼스 3기 Frontend 멤버
-- **2025.09-2026.07** GDGoC KNU 5기 Backend 멤버
-- **2026.09~** GDGoC KNU 6기 Backend Core
+## Awards
 
-### Awards
+| 수상 | 주최 | 연도 | 증빙 |
+| --- | --- | :---: | :---: |
+| 제1회 달빛톤(달구벌을 빛내는 해커톤) 우수상 | 국립대학육성사업 및 경북대학교 소프트웨어교육원 | 2025.09 | [상장](./certificates/제1회_달빛톤_상장_우수상_원투예지.pdf) |
+| 2025년 한국정보기술학회 추계종합학술대회 동상 | 한국정보기술학회 | 2025.11 | [상장](./certificates/2025년_한국정보기술학회_추계종합학술대회_(동상).pdf) |
+| 2025 AI-conic Hachathon 우수상 | 경북대학교 인공지능 혁신융합대학사업단 | 2025.12 | [상장](./certificates/우수상_온하루(Aiconic_해커톤).pdf) |
+| 2025 I&T 융합 프로젝트 최우수상 | KNU 교육선도학과 사업 | 2025.12 | [상장](./certificates/컴퓨터학부_경연대회_-_최우수상.pdf) |
+| 제5회 SW테스트 경진대회 장려상 | 과학기술정보통신부, 전남광주통합특별시, 정보통신산업진흥원(NIPA) | 2026.08 | [상장](./certificates/제5회_SW테스트_경진대회_장려상.pdf) |
+| 2026 KERT 사이버보안 경진대회(CTF) 최우수상 | SW교육원 | 2026.09 | [상장](./certificates/KERT_사이버보안_경진대회(CTF)상장_최우수상.pdf) |
 
-- **2025.09** 제1회 달빛톤 해커톤 우수상
-- **2025.11** 한국정보기술학회 추계종합학술대회 대학생 논문경진대회 동상
-- **2025.12** 2025 AI-conic Hackathon 우수상
-- **2025.12** 2025 I&T 융합 프로젝트 최우수상
-- **2026.08** 2026 KERT CTF 사이버보안 경진대회 최우수상
-- **2026.08** 제5회 SW테스트 경진대회 장려상
+<br>
 
-### Certifications
+## Activity
 
-- **2026.03.27** SQLD
-- **2026.06.05** ADsP
-- **2026.07.18** SW테스트전문가(CSTS) - Foundation Level
-- **2026.09.21** 정보처리기사
+- 멋쟁이사자처럼 KNU 13기 · Backend 트랙 `2025` · [수료증](./certificates/멋사대학_13기_수료증_경북대학교_신여원.pdf)
+- 카카오테크캠퍼스 3기 · Frontend 트랙 `2025` · [수료증](./certificates/카카오테크캠퍼스_수료증_신여원.pdf)
+- GDGoC KNU 5기 · Backend 멤버 `2025.09 - 2026.07` · [수료증](./certificates/GDGoC_신여원.pdf)
+- GDGoC KNU 6기 · Backend Core `2026.09 - present`
 
-### Skill Set
+<br>
 
-| Category | Skills |
-|----------|--------|
-| **Back-End** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Messaging** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Front-End** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+## Certificates
+
+- SQLD(SQL개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.03` · [자격증](./certificates/SQLD_자격증.pdf)
+- ADsP(데이터분석 준전문가) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.06` · [자격증](./certificates/ADsP_자격증.pdf)
+- CSTS(소프트웨어 테스트 전문가) · Foundation Level 취득 (한국정보통신기술협회) `2026.07` · [자격증](./certificates/제3회_CSTS_일반등급_자격시험(대구)_자격증(신여원).pdf)
+- 정보처리기사 · 국가기술자격 취득 (한국산업인력공단) `2026.09` · [자격증](./certificates/정보처리기사_자격증.pdf)
