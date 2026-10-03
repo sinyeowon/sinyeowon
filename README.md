@@ -30,31 +30,31 @@
       <td>2025년 한국정보기술학회 추계종합학술대회 <code>동상</code></td>
       <td>한국정보기술학회</td>
       <td align="center">2025.11</td>
-      <td align="center"><a href="[./certificates/2025년%한국정보기술학회%추계종합학술대회%(동상).pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/2025%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC%20%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20(%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC).pdf)">상장</a></td>
+      <td align="center"><a href="https://github.com/sinyeowon/sinyeowon/blob/main/certificates/2025%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC%20%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20(%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.pdf">상장</a></td>
     </tr>
     <tr>
       <td>2025 AI-conic Hackathon <code>우수상</code></td>
       <td>경북대학교 인공지능 혁신융합대학사업단</td>
       <td align="center">2025.12</td>
-      <td align="center"><a href="[./certificates/우수상_온하루(Aiconic%해커톤).pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC_%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A1%E1%84%85%E1%85%AE(Aiconic%20%E1%84%92%E1%85%A2%E1%84%8F%E1%85%A5%E1%84%90%E1%85%A9%E1%86%AB).pdf)">상장</a></td>
+      <td align="center"><a href="https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC_%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A1%E1%84%85%E1%85%AE(Aiconic%20%E1%84%92%E1%85%A2%E1%84%8F%E1%85%A5%E1%84%90%E1%85%A9%E1%86%AB.pdf">상장</a></td>
     </tr>
     <tr>
       <td>2025 I&amp;T 융합 프로젝트 <code>최우수상</code></td>
       <td>KNU 교육선도학과 사업</td>
       <td align="center">2025.12</td>
-      <td align="center"><a href="[./certificates/컴퓨터학부%경연대회%-%최우수상.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%87%E1%85%AE%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20-%20%E1%84%8E%E1%85%AC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.pdf)">상장</a></td>
+      <td align="center"><a href="https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%87%E1%85%AE%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20-%20%E1%84%8E%E1%85%AC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.pdf">상장</a></td>
     </tr>
     <tr>
       <td>제5회 SW테스트 경진대회 <code>장려상</code></td>
       <td>과학기술정보통신부, 전남광주통합특별시, 정보통신산업진흥원(NIPA)</td>
       <td align="center">2026.08</td>
-      <td align="center"><a href="[./certificates/제5회%SW테스트%경진대회%장려상.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A65%E1%84%92%E1%85%AC%20SW%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%85%E1%85%A7%E1%84%89%E1%85%A1%E1%86%BC.pdf)">상장</a></td>
+      <td align="center"><a href="https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A65%E1%84%92%E1%85%AC%20SW%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%85%E1%85%A7%E1%84%89%E1%85%A1%E1%86%BC.pdf">상장</a></td>
     </tr>
     <tr>
       <td>2026 KERT 사이버보안 경진대회(CTF) <code>최우수상</code></td>
       <td>SW교육원</td>
       <td align="center">2026.09</td>
-      <td align="center"><a href="[./certificates/KERT%사이버보안%경진대회(CTF)상장_최우수상.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/KERT%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC(CTF)%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8E%E1%85%AC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.pdf)">상장</a></td>
+      <td align="center"><a href="https://github.com/sinyeowon/sinyeowon/blob/main/certificates/KERT%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC(CTF)%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8E%E1%85%AC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.pdf">상장</a></td>
     </tr>
   </tbody>
 </table>
@@ -63,16 +63,16 @@
 
 ## Activity
 
-- 멋쟁이사자처럼 KNU 13기 (개발 동아리) · Backend 트랙 `2025` · [수료증]([./certificates/멋사대학%13기_수료증_경북대학교_신여원.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A1%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%2013%E1%84%80%E1%85%B5_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%A8%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf))
-- Kakao Tech Campus 3기 · Frontend 트랙 `2025` · [수료증]([./certificates/카카오테크캠퍼스_수료증_신여원.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%A5%E1%84%89%E1%85%B3_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf))
-- Google Developers Group on Campus KNU 5기 · Backend 멤버 `2025.09 - 2026.07` · [수료증]([./certificates/GDGoC_신여원.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/GDGoC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf))
+- 멋쟁이사자처럼 KNU 13기 (개발 동아리) · Backend 트랙 `2025` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A1%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%2013%E1%84%80%E1%85%B5_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%A8%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
+- Kakao Tech Campus 3기 · Frontend 트랙 `2025` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%A5%E1%84%89%E1%85%B3_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
+- Google Developers Group on Campus KNU 5기 · Backend 멤버 `2025.09 - 2026.07` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/GDGoC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
 - Google Developers Group on Campus KNU 6기 · Backend Core `2026.09 - present`
 
 <br>
 
 ## Certificates
 
-- SQLD (SQL 개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.03` · [자격증]([./certificates/SQLD%자격증.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf))
-- ADsP (데이터분석 준전문가) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.06` · [자격증]([./certificates/ADsP%자격증.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf))
-- CSTS (소프트웨어 테스트 전문가) · Foundation Level 취득 (한국정보통신기술협회) `2026.07` · [자격증]([./certificates/제3회%CSTS%일반등급%자격시험(대구)_자격증(신여원).pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A63%E1%84%92%E1%85%AC%20CSTS%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%BC%E1%84%80%E1%85%B3%E1%86%B8%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5%E1%84%92%E1%85%A5%E1%86%B7(%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE)_%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC(%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB).pdf))
-- 정보처리기사 · 국가기술자격 취득 (한국산업인력공단) `2026.09` · [자격증]([./certificates/정보처리기사%자격증.pdf](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf))
+- SQLD (SQL 개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.03` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
+- ADsP (데이터분석 준전문가) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.06` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
+- CSTS (소프트웨어 테스트 전문가) · Foundation Level 취득 (한국정보통신기술협회) `2026.07` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A63%E1%84%92%E1%85%AC%20CSTS%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%BC%E1%84%80%E1%85%B3%E1%86%B8%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5%E1%84%92%E1%85%A5%E1%86%B7(%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE)_%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC(%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
+- 정보처리기사 · 국가기술자격 취득 (한국산업인력공단) `2026.09` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
