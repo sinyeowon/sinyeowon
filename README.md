@@ -8,16 +8,56 @@
 
 <br>
 
-## Awards
+<h2>Awards</h2>
 
-| 수상 | 주최 | 연도 | 증빙 |
-| --- | --- | :---: | :---: |
-| 제1회 달빛톤(달구벌을 빛내는 해커톤) **`우수상`** | 국립대학육성사업 및 경북대학교 소프트웨어교육원 | 2025.09 | [상장](./certificates/제1회_달빛톤_상장_우수상_원투예지.pdf) |
-| 2025년 한국정보기술학회 추계종합학술대회 **`동상`** | 한국정보기술학회 | 2025.11 | [상장](./certificates/2025년_한국정보기술학회_추계종합학술대회_(동상).pdf) |
-| 2025 AI-conic Hachathon **`우수상`** | 경북대학교 인공지능 혁신융합대학사업단 | 2025.12 | [상장](./certificates/우수상_온하루(Aiconic_해커톤).pdf) |
-| 2025 I&T 융합 프로젝트 **`최우수상`** | KNU 교육선도학과 사업 | 2025.12 | [상장](./certificates/컴퓨터학부_경연대회_-_최우수상.pdf) |
-| 제5회 SW테스트 경진대회 **`장려상`** | 과학기술정보통신부, 전남광주통합특별시, 정보통신산업진흥원(NIPA) | 2026.08 | [상장](./certificates/제5회_SW테스트_경진대회_장려상.pdf) |
-| 2026 KERT 사이버보안 경진대회(CTF) **`최우수상`** | SW교육원 | 2026.09 | [상장](./certificates/KERT_사이버보안_경진대회(CTF)상장_최우수상.pdf) |
+<table>
+  <thead>
+    <tr>
+      <th width="38%">수상</th>
+      <th width="42%">주최</th>
+      <th width="12%">연도</th>
+      <th width="8%">증빙</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>제1회 달빛톤(달구벌을 빛내는 해커톤) <code>우수상</code></td>
+      <td>국립대학육성사업 및 경북대학교 소프트웨어교육원</td>
+      <td align="center">2025.09</td>
+      <td align="center"><a href="./certificates/제1회_달빛톤_상장_우수상_원투예지.pdf">상장</a></td>
+    </tr>
+    <tr>
+      <td>2025년 한국정보기술학회 추계종합학술대회 <code>동상</code></td>
+      <td>한국정보기술학회</td>
+      <td align="center">2025.11</td>
+      <td align="center"><a href="./certificates/2025년_한국정보기술학회_추계종합학술대회_(동상).pdf">상장</a></td>
+    </tr>
+    <tr>
+      <td>2025 AI-conic Hackathon <code>우수상</code></td>
+      <td>경북대학교 인공지능 혁신융합대학사업단</td>
+      <td align="center">2025.12</td>
+      <td align="center"><a href="./certificates/우수상_온하루(Aiconic_해커톤).pdf">상장</a></td>
+    </tr>
+    <tr>
+      <td>2025 I&amp;T 융합 프로젝트 <code>최우수상</code></td>
+      <td>KNU 교육선도학과 사업</td>
+      <td align="center">2025.12</td>
+      <td align="center"><a href="./certificates/컴퓨터학부_경연대회_-_최우수상.pdf">상장</a></td>
+    </tr>
+    <tr>
+      <td>제5회 SW테스트 경진대회 <code>장려상</code></td>
+      <td>과학기술정보통신부, 전남광주통합특별시, 정보통신산업진흥원(NIPA)</td>
+      <td align="center">2026.08</td>
+      <td align="center"><a href="./certificates/제5회_SW테스트_경진대회_장려상.pdf">상장</a></td>
+    </tr>
+    <tr>
+      <td>2026 KERT 사이버보안 경진대회(CTF) <code>최우수상</code></td>
+      <td>SW교육원</td>
+      <td align="center">2026.09</td>
+      <td align="center"><a href="./certificates/KERT_사이버보안_경진대회(CTF)상장_최우수상.pdf">상장</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
