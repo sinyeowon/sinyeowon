@@ -24,7 +24,7 @@
       <td>제1회 달빛톤(달구벌을 빛내는 해커톤) <code>우수상</code></td>
       <td>국립대학육성사업 및 경북대학교 소프트웨어교육원</td>
       <td align="center">2025.09</td>
-      <td align="center"><a href="./certificates/제1회_달빛톤_상장_우수상_원투예지.pdf">상장</a></td>
+      <td align="center"><a href="https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A61%E1%84%92%E1%85%AC_%E1%84%83%E1%85%A1%E1%86%AF%E1%84%87%E1%85%B5%E1%86%BE%E1%84%90%E1%85%A9%E1%86%AB_%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%B5.pdf">상장</a></td>
     </tr>
     <tr>
       <td>2025년 한국정보기술학회 추계종합학술대회 <code>동상</code></td>
