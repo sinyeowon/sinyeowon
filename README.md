@@ -6,6 +6,10 @@
 - 기능 구현에 그치지 않고 예외 상황과 장애 상황까지 고려한 설계와 테스트를 중요하게 생각합니다.
 - 문제의 원인을 구조적으로 파악하고, 기술적 판단과 해결 과정을 문서화하고 공유하는 것을 좋아합니다.
 
+<sub>Tech Blog · [Blog](https://sinyeowon.github.io/)</sub>  
+<sub>Email · [1oohyou@gmail.com](mailto:1oohyou@gmail.com)</sub>
+
+
 <br>
 
 <h2>Awards</h2>
@@ -63,15 +67,17 @@
 
 ## Activity
 
-- 멋쟁이사자처럼 KNU 13기 (개발 동아리) · Backend 트랙 `2025` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A1%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%2013%E1%84%80%E1%85%B5_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%A8%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
-- Kakao Tech Campus 3기 · Frontend 트랙 `2025` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%A5%E1%84%89%E1%85%B3_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
+- GET IT 5기 (SW&창업 동아리) `2024.03 - 2024.06`
+- 멋쟁이사자처럼 KNU 13기 (개발 동아리) · Backend 트랙 `2025.01 - 2025.12` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A1%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%2013%E1%84%80%E1%85%B5_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%A8%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
+- Kakao Tech Campus 3기 · Frontend 트랙 `2025.04 - 2025.11` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%A5%E1%84%89%E1%85%B3_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
 - Google Developers Group on Campus KNU 5기 · Backend 멤버 `2025.09 - 2026.07` · [수료증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/GDGoC_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB.pdf)
 - Google Developers Group on Campus KNU 6기 · Backend Core `2026.09 - present`
 
 <br>
 
-## Certificates
+## Certificates & Language
 
+- OPIc IH `2026.10` ·
 - SQLD (SQL 개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.03` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
 - ADsP (데이터분석 준전문가) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.06` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
 - CSTS (소프트웨어 테스트 전문가) · Foundation Level 취득 (한국정보통신기술협회) `2026.07` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A63%E1%84%92%E1%85%AC%20CSTS%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%BC%E1%84%80%E1%85%B3%E1%86%B8%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5%E1%84%92%E1%85%A5%E1%86%B7(%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE)_%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC(%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
