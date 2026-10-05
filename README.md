@@ -77,7 +77,7 @@
 
 ## Certificates & Language
 
-- OPIc IH `2026.10` ·
+- OPIc IH `2026.10` · [증명서](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%AE24%20-%20%E1%84%8B%E1%85%A5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%20%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%A8%20%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A5.pdf)
 - SQLD (SQL 개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.03` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
 - ADsP (데이터분석 준전문가) · 국가공인 자격증 취득 (한국데이터산업진흥원) `2026.06` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/SQLD%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
 - CSTS (소프트웨어 테스트 전문가) · Foundation Level 취득 (한국정보통신기술협회) `2026.07` · [자격증](https://github.com/sinyeowon/sinyeowon/blob/main/certificates/%E1%84%8C%E1%85%A63%E1%84%92%E1%85%AC%20CSTS%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%BC%E1%84%80%E1%85%B3%E1%86%B8%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5%E1%84%92%E1%85%A5%E1%86%B7(%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE)_%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC(%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
